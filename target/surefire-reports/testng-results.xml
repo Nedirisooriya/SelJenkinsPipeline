@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-27T15:03:11 IST" name="Suite" finished-at="2024-09-27T15:03:26 IST" duration-ms="14934">
+    <groups>
+    </groups>
+    <test started-at="2024-09-27T15:03:11 IST" name="Test" finished-at="2024-09-27T15:03:26 IST" duration-ms="14934">
+      <class name="testscenarios.GoogleTestPage">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testscenarios.GoogleTestPage@52bf72b5]" started-at="2024-09-27T15:03:11 IST" name="beforetest" finished-at="2024-09-27T15:03:22 IST" duration-ms="11202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="googlesearch()[pri:0, instance:testscenarios.GoogleTestPage@52bf72b5]" started-at="2024-09-27T15:03:23 IST" name="googlesearch" finished-at="2024-09-27T15:03:26 IST" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googlesearch -->
+        <test-method is-config="true" signature="after()[pri:0, instance:testscenarios.GoogleTestPage@52bf72b5]" started-at="2024-09-27T15:03:26 IST" name="after" finished-at="2024-09-27T15:03:26 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- testscenarios.GoogleTestPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
